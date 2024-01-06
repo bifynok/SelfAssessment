@@ -3,7 +3,7 @@
   - Object: 🖐️ used
   - this: 🖐️ used
   - arrow function: 🖐️ used
-  - async function: 👂 heard
+  - async function: 🖐️ used
   - call
   - bind: 👂 heard
   - apply: 👂 heard
@@ -16,7 +16,7 @@
   - iterator: 👂 heard
   - async generator
   - async iterator
-  - chaining: 👂 heard
+  - chaining: 🖐️ used
   - optional chaining
   - IIFE
   - global: 🖐️ used
@@ -31,7 +31,7 @@
   - ternary operator: 🖐️ used
   - void: 🖐️ used
   - yield
-  - await: 👂 heard
+  - await: 🖐️ used
   - template literal: 👂 heard
   - strict mode: 🖐️ used
   - delete: 👂 heard
@@ -82,7 +82,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js: 👂 heard
-  - npm: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN

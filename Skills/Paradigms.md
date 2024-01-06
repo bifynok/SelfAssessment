@@ -21,19 +21,19 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor:
-  - new:
-  - Static method:
-  - Method:
-  - Async method
-  - Getters, Setters
-  - Public fields:
-  - Private fields:
-  - Field declarations:
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 👂 heard
+  - Getters, Setters: 👂 heard
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
   - Inheritance
-  - Parent class:
-  - Polymorphism: 
-  - Abstract class:
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
   - Interface
   - Encapsulation
   - Hidden class
@@ -42,7 +42,7 @@
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
+  - Singleton: 🖐️ used
   - Factory Method
   - Abstract Factory
   - Adapter
