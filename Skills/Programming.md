@@ -41,7 +41,7 @@
   - curry
   - higher order
   - recursion: 🖐️ used
-  - callback
+  - callback: 👂 heard
   - listener: 👂 heard
   - compose
   - pipe: 👂 heard
